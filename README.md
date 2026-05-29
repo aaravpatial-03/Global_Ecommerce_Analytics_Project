@@ -21,7 +21,7 @@ A **full-stack data analytics project** analyzing global e-commerce transactions
 ## 🗂️ Repository Structure
 
 ```
-global-ecommerce-analytics/
+Global_Ecommerce_Analytics_Project/
 │- global_ecommerce_transactions.csv
 |- india_ecommerce_detail.csv
 |- kpi_yearly_country.csv
