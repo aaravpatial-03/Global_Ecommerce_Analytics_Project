@@ -37,12 +37,6 @@ global-ecommerce-analytics/
 ├── excel/
 │   └── Global_Ecommerce_Analytics_Project.xlsx  # 7-sheet professional workbook
 │
-├── powerbi/
-│   └── POWERBI_GUIDE.md                     # Complete Power BI setup guide
-│
-├── docs/
-│   └── INTERVIEW_PREP.md                    # Interview Q&A + theory notes
-│
 └── README.md
 ```
 
