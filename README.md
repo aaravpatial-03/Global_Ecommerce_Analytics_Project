@@ -171,7 +171,7 @@ The SQL file contains **12 advanced queries** including:
 
 ### Python Analysis
 ```bash
-git clone https://github.com/aaravpatial-03global-ecommerce-analytics.git
+git clone https://github.com/aaravpatial-03/global-ecommerce-analytics.git
 cd global-ecommerce-analytics
 pip install pandas numpy openpyxl
 python python/python_analysis.py
@@ -209,11 +209,11 @@ DELIMITER ',' CSV HEADER;
 
 ## 👤 Author
 
-**[Aarav Patial]**  
+**Aarav Patial**  
 Data Analyst | SQL • Python • Power BI • Excel  
 📧 aaravpatial108@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/con tactaaravpatial |)  
-🐙 [GitHub](https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git)
+🔗 LinkedIn (https://www.linkedin.com/in/contactaaravpatial)  
+🐙 GitHub (https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git)
 
 ---
 
