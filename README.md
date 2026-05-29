@@ -22,14 +22,12 @@ A **full-stack data analytics project** analyzing global e-commerce transactions
 
 ```
 global-ecommerce-analytics/
-|
 │- global_ecommerce_transactions.csv
-- india_ecommerce_detail.csv
-- kpi_yearly_country.csv
-- python_analysis.py
-- sql_queries_schema.sql
-├── Global_Ecommerce_Analytics_Project.xlsx
-│
+|- india_ecommerce_detail.csv
+|- kpi_yearly_country.csv
+|- python_analysis.py
+|- sql_queries_schema.sql
+|- Global_Ecommerce_Analytics_Project.xlsx
 └── README.md
 ```
 
