@@ -28,6 +28,7 @@ global-ecommerce-analytics/
 - kpi_yearly_country.csv
 - python_analysis.py
 - sql_queries_schema.sql
+├── Global_Ecommerce_Analytics_Project.xlsx
 │
 └── README.md
 ```
