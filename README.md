@@ -91,8 +91,6 @@ This project uses **synthetically generated data** modeled after real-world patt
 | **eMarketer Global Commerce** | https://www.emarketer.com | Platform market share data |
 | **GSTN GST Rate Data** | https://www.gst.gov.in | Indian GST rate slabs per category |
 
-> **Note:** All records are synthetically generated using statistically calibrated parameters. No real customer PII is present.
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -104,7 +102,6 @@ This project uses **synthetically generated data** modeled after real-world patt
 | **Pandas** | Data manipulation, group-by, aggregations | 2.0+ |
 | **SQL (PostgreSQL)** | Schema design, 12 analytical queries, window functions | 14+ |
 | **Excel (openpyxl)** | 7-sheet dashboard workbook | 365 / 2019+ |
-| **Power BI Desktop** | Interactive dashboard (see Power BI Guide) | Latest |
 
 ---
 
@@ -222,5 +219,3 @@ Data Analyst | SQL • Python • Power BI • Excel
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-*Built with ❤️ for professional data analytics portfolio. Data is synthetically generated for educational purposes.*
