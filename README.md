@@ -22,20 +22,12 @@ A **full-stack data analytics project** analyzing global e-commerce transactions
 
 ```
 global-ecommerce-analytics/
-│
-├── data/
-│   ├── global_ecommerce_transactions.csv     # 50,000 rows — Global transactions
-│   ├── india_ecommerce_detail.csv            # 10,000 rows — India deep dive
-│   └── kpi_yearly_country.csv               # 100 rows — Pre-aggregated KPIs
-│
-├── sql/
-│   └── sql_queries_schema.sql               # DDL schema + 12 analytical queries
-│
-├── python/
-│   └── python_analysis.py                   # NumPy + Pandas analysis script
-│
-├── excel/
-│   └── Global_Ecommerce_Analytics_Project.xlsx  # 7-sheet professional workbook
+|
+│- global_ecommerce_transactions.csv
+- india_ecommerce_detail.csv
+- kpi_yearly_country.csv
+- python_analysis.py
+- sql_queries_schema.sql
 │
 └── README.md
 ```
