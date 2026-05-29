@@ -173,25 +173,11 @@ The SQL file contains **12 advanced queries** including:
 
 ---
 
-## ⚡ Power BI Dashboard (Setup)
-
-See [`powerbi/POWERBI_GUIDE.md`](powerbi/POWERBI_GUIDE.md) for complete setup. Key visuals:
-
-- **World Map** — Revenue bubble map by country
-- **Line Chart** — YoY revenue trend (2015–2024)
-- **Bar Chart** — Category revenue comparison
-- **Pie Chart** — India payment method distribution
-- **Matrix** — Country × Category revenue heatmap
-- **Card KPIs** — Total revenue, orders, margin, return rate
-- **Slicer Filters** — Country, Year, Category, Platform
-
----
-
 ## 🚀 How to Run
 
 ### Python Analysis
 ```bash
-git clone https://github.com/YOUR_USERNAME/global-ecommerce-analytics.git
+git clone https://github.com/aaravpatial-03global-ecommerce-analytics.git
 cd global-ecommerce-analytics
 pip install pandas numpy openpyxl
 python python/python_analysis.py
