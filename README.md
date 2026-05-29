@@ -229,11 +229,11 @@ DELIMITER ',' CSV HEADER;
 
 ## 👤 Author
 
-**[Your Full Name]**  
+**[Aarav Patial]**  
 Data Analyst | SQL • Python • Power BI • Excel  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 aaravpatial108@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/con tactaaravpatial |)  
+🐙 [GitHub](https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git)
 
 ---
 
