@@ -204,9 +204,3 @@ Data Analyst | SQL • Python • Power BI • Excel
 🐙 GitHub (https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
