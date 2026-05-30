@@ -200,7 +200,7 @@ DELIMITER ',' CSV HEADER;
 **Aarav Patial**  
 Data Analyst | SQL • Python • Power BI • Excel  
 📧 aaravpatial108@gmail.com  
-🔗 LinkedIn (https://www.linkedin.com/in/contactaaravpatial)  
-🐙 GitHub (https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git)
+🔗 LinkedIn - https://www.linkedin.com/in/contactaaravpatial 
+🐙 GitHub - https://github.com/aaravpatial-03/Global_Ecommerce_Analytics_Project.git
 
 ---
